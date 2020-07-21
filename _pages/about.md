@@ -1,3 +1,4 @@
+About me 
  
 I’m a full stack software developer. I have had experience in a variety of stacks and am currently reading and also starting my research in personalised medicine and its potential applications. I received my Bsc in Computer And Information Systems from  [Africa University](https://africau.edu) and currently a student with [Microverse](https://www.microverse.org/).
 
