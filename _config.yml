@@ -83,10 +83,9 @@ author:
   name             : "S Mandebvu"
   avatar           : "profile.jpeg"
   bio              : "Full Stack Developer | LEMP, Rails, Django | gender and racial equity in STEM | he/his"
-  location         : ""
+  location         : "Open to opportunities"
   employer         :
   pubmed           : 
-  googlescholar    : 
   email            : "shingim1@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
@@ -103,7 +102,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://linkedin.com/in/simandebvu"
-  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : "https://stackoverflow.com/users/3630502/the-gentleman"
