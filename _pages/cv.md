@@ -17,16 +17,16 @@ Education
 
 Work experience
 ======
-* 2020: Students Mentor- Microverse
+* 2020: Students Mentor- [Microverse](https://www.microverse.org/)
   * Mentored junior web developers, providing technical support through code reviews. 
   * Proposed improvements to code organization to improve code quality and overall performance. 
   * Provided advice and tips on how to maintain motivation to maintain longevity in the program. 
   
-* 2020: Systems Analyst- Reserve Bank Of Zimbabwe
+* 2020: Systems Analyst- [Reserve Bank Of Zimbabwe](https://www.rbz.co.zw/)
   * Managed and maintained the National Payment Systems and Security of the system.  
   * Proposed improvements to system load balancing and the SWIFT Customer Security Program Register to ensure and enforce implementation.
 
-* June 2013 - December 2019: Software Consultant- Belina Time Systems
+* June 2013 - December 2019: Software Consultant- [Belina Time Systems](https://zw.belinapayroll.com/)
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
