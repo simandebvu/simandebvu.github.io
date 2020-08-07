@@ -27,9 +27,9 @@ Work experience
   * Proposed improvements to system load balancing and the SWIFT Customer Security Program Register to ensure and enforce implementation.
 
 * June 2013 - December 2019: Software Consultant- [Belina Time Systems](https://zw.belinapayroll.com/)
-  * Github University
+  * Testing and Software Implementation
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Belina Bureau Services
   
 Skills
 ======
