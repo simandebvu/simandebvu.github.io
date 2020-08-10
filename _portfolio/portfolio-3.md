@@ -4,7 +4,7 @@ excerpt: "A Full Stack Ruby On Rails Project for movie opinion sharing and follo
 collection: portfolio
 ---
 
-[Repository](https://github.com/simandebvu/movie-time/)
+[Repository](https://github.com/simandebvu/movie-time/) |
 [Live Site](https://movie-time-zim.herokuapp.com/) 
 
 A Full Stack Ruby On Rails Project for opinion sharing and following users.
