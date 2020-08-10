@@ -4,9 +4,9 @@ excerpt: "On online lookup directory for covid 19. Helping individuals locate ne
 collection: portfolio
 ---
 
-Repository Site: https://github.com/simandebvu/corona-away
-
-Live Site: https://raw.githack.com/simandebvu/corona-away/develop/index.html
+ Site: 
+[Repository](https://github.com/simandebvu/corona-away/) 
+[Live Site](https://raw.githack.com/simandebvu/corona-away/develop/index.html) 
 
 On online lookup directory for covid 19. Helping individuals locate nearest test centers and get basic information/contact the institutions.
 
