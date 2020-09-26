@@ -1,6 +1,6 @@
 ---
 title: "Gamerama"
-excerpt: "A dedication to Futurama! <br/><img src='/images/img-gamerama.gif'>"
+excerpt: "A dedication to Futurama! <br/><img src='/images/img-gamerama.gif' alt=''>"
 collection: portfolio
 ---
 

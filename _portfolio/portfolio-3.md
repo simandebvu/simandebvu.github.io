@@ -1,6 +1,6 @@
 ---
 title: "Movie Time"
-excerpt: "A Full Stack Ruby On Rails Project for movie opinion sharing and following users.<br/><img src='/images/movie-screenshot.gif'>"
+excerpt: "A Full Stack Ruby On Rails Project for movie opinion sharing and following users.<br/><img src='/images/movie-screenshot.gif' alt=''>"
 collection: portfolio
 ---
 

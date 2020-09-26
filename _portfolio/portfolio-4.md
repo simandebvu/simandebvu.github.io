@@ -1,6 +1,6 @@
 ---
 title: "Sopranos"
-excerpt: "A dedication to what was the BEST restaurant in Zimbabwe.<br/><img src='/images/sopranos-screenshot.gif'>"
+excerpt: "A dedication to what was the BEST restaurant in Zimbabwe.<br/><img src='/images/sopranos-screenshot.gif' alt=''>"
 collection: portfolio
 ---
 
